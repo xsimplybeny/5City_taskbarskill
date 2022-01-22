@@ -1,4 +1,4 @@
 ## 5City_taskbarskill
 - Taskbarskill zz wytrzychów 5City
-## About script
+## Discord
 - discord: https://discord.gg/Bauyrg2TzD
